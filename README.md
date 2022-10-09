@@ -1,7 +1,12 @@
 <h1 align="left">👋 Hey I'm <a href="https://shaunchander.me" target="_blank">shaunchander</a>, I'm a former premed major, startup founder, and creative frontend engineer.</h1>
+
 ### 👨‍💻 Currently frontend engineering @ [bitfo.com](https://bitfo.com)
+
 ### ✨ Interested in functional programming and design
+
 ### 👀 Learning [Elixir](https://elixir-lang.org/) and [Phoenix](https://elixir-lang.org/)
+
+---
 
 <h3 align="left">👉 Connect with me</h3>
 <p align="left">
