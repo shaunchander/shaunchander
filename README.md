@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hey I'm shaunchander, I'm a former premed major, startup founder, and creative frontend engineer.</h1>
+<h1 align="left">👋 Hey I'm <a href="https://shaunchander.me" target="_blank">shaunchander</a>, I'm a former premed major, startup founder, and creative frontend engineer.</h1>
 <h3 align="left">Currently frontend engineering @ <a target="_blank" href="https://bitfo.com">bitfo.com</a></h3>
 
 <h3 align="left">👉 Connect with me</h3>
