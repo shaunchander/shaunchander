@@ -4,7 +4,7 @@
 
 ### ✨ Interested in functional programming and design
 
-### 👀 Learning [Elixir](https://elixir-lang.org/) and [Phoenix](https://elixir-lang.org/)
+### Building in stealth atm...
 
 ---
 
