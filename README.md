@@ -1,10 +1,8 @@
 <h1 align="left">👋 Hey I'm <a href="https://shaunchander.me" target="_blank">shaunchander</a>, I'm a former premed major, startup founder, and creative frontend engineer.</h1>
 
-### 👨‍💻 Currently frontend engineering @ [bitfo.com](https://bitfo.com)
+### 👨‍💻 Currently working on side projects and edtech stuff.
 
 ### ✨ Interested in functional programming and design
-
-### Building in stealth atm...
 
 ---
 
