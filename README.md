@@ -1,9 +1,5 @@
 <h1 align="left">👋 Hey I'm <a href="https://shaunchander.me" target="_blank">shaunchander</a>, I'm a former premed major, startup founder, and creative frontend engineer.</h1>
 
-### 👨‍💻 Engineering @ [Pallet](https://trypallet.com).
-
-### ✨ Interested in functional programming and design
-
 ---
 
 <h3 align="left">👉 Connect with me</h3>
